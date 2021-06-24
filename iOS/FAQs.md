@@ -64,3 +64,14 @@ I guess it's also learning Combine
 - App Architecture: [Advanced iOS App Architecture](https://www.raywenderlich.com/books/advanced-ios-app-architecture/v3.0), [objc App Architecture](https://www.objc.io/books/app-architecture/) [Discord Link](https://discord.com/channels/512920737028374529/789937281401487370/832666993014341673)
 
 ## UIKit
+
+## Architecture
+
+- **Question** does anyone know a good book/article about best practices for create a scalable and easy to maintain iOS project?
+I'm looking for something more in the project management side to deal with things like release cycle, code review, QA and automated tests, etc
+
+**Answer** when it comes to development best practices, there are many ways to do it - and all are correct. In general, I would recommend you look at Clean Arquitectore for a general purpose way of project managing a product, starting from scratch is a huge plus. When you inherit a project, the task is not as straight forward. Especifically for iOS, I recommend you take a look at the Composable Arquitecture, this will help you build and maintain a project for the long run: [Composable Architecture](https://www.pointfree.co/collections/composable-architecture)
+
+as for the process of automating builds, deployment etc. There are also many solutions out there that are all good - everyone has a favorite. A tried and tested solution is Fastlane, this is based on Ruby scripts (easy to understand and customize). It helps automate from development to code sign and release at the AppStore. [fastlane](https://fastlane.tools/), [Fastlane Tutorial Getting Started](https://www.raywenderlich.com/778-fastlane-tutorial-getting-started), and full video course [Fastlane for iOS](https://www.raywenderlich.com/Fastlane for iOS-for-ios)
+
+[Discord Link](https://discord.com/channels/512920737028374529/703294846596808738/857657619463405588)
