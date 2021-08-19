@@ -42,6 +42,10 @@ all that aside, basically in Swift you don't need autorelease pools, unless
 
 **Answer** You'd probably interested in [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/play/wwdc2015/408/) and regarding class vs. struct, Swift uses ARC which is automatic reference counting compare to JS (which I believe it uses garbage collector). The difference is structs are value based which are stored in stack portion of the memory and when passed around are copied entirely which is kinda a cheap operation and helps with multithreading when used properly. On the other hand, classes are reference types which means when you pass a class to a method, that method gets a reference to the memory that class is stored and can change the content of that class. Also, ARC itself has some overhead since it adds checks for increase and decrease ref count to each class memory. [Discord Link](https://discord.com/channels/512920737028374529/703294846596808738/783699094182559815)
 
+**Question** Improve build time.
+
+**Answer** Several steps and tips can be found in [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times) repo. [Discord Link](https://discord.com/channels/512920737028374529/703294846596808738/877976930488553502)
+
 **Question** How to debug memory leaks and cycle dependencies?
 
 **Answer** you may find these guides helpful for debugging & memory: [ARC and Memory Management in Swift](https://www.raywenderlich.com/966538-arc-and-memory-management-in-swift#toc-anchor-021),
