@@ -51,6 +51,10 @@ all that aside, basically in Swift you don't need autorelease pools, unless
 **Answer** you may find these guides helpful for debugging & memory: [ARC and Memory Management in Swift](https://www.raywenderlich.com/966538-arc-and-memory-management-in-swift#toc-anchor-021),
 [Debugging in Xcode 11](https://developer.apple.com/videos/play/wwdc2019/412/), [Gathering Information About Memory Use](https://developer.apple.com/documentation/xcode/improving_your_app_s_performance/reducing_your_app_s_memory_use/gathering_information_about_memory_use) [Discord Link](https://discord.com/channels/512920737028374529/703294846596808738/712001013673885840)
 
+**Question** Static vs. Dynamic frameworks and steps to take to improve the build time
+
+**Answer** [Discord Link](https://discord.com/channels/512920737028374529/703294846596808738/878678604081401856)
+
 ## SwiftUI
 
 **Question** I am very curious to start learning SwiftUI, but I would like to do learn the "reactive" app architecture. So I'm not looking for just how to do certain UIs with SwiftUI, but also how to architect an app as well. Are there any references you recommend? Is the SwiftUI apprentice a good book for this, or is there another resource you recommend?
