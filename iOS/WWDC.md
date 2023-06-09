@@ -12,11 +12,14 @@
 - [Debugging in Xcode 11](https://developer.apple.com/videos/play/wwdc2019/412)
 - [LLDB: Beyond "po"](https://developer.apple.com/videos/play/wwdc2019/429)
 - [Advanced Debugging with Xcode and LLDB](https://developer.apple.com/videos/play/wwdc2018/412)
+- [Debug Swift debugging with LLDB](https://developer.apple.com/videos/play/wwdc2022/110370)
 
 ## Swift
 
 - [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/play/wwdc2015/408)
 - [Modern Swift API Design](https://developer.apple.com/videos/play/wwdc2019/415)
+- [Embrace Swift generics](https://developer.apple.com/videos/play/wwdc2022/110352)
+- [Expand on Swift macros](https://developer.apple.com/videos/play/wwdc2023/10167)
 
 ## SwiftUI
 
@@ -38,6 +41,7 @@
 - [Meet AsynSequence](https://developer.apple.com/wwdc21/10058)
 - [Swift concurrency: Update a sample app](https://developer.apple.com/videos/play/wwdc2021/10194)
 - [Swift concurrency: Behind the scenes](https://developer.apple.com/wwdc21/10254)
+- [Visualize and Optimize Swift Concurrency](https://developer.apple.com/videos/play/wwdc2022/110350)
 
 ## Good habits
 
