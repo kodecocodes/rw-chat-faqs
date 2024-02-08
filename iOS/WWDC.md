@@ -20,6 +20,9 @@
 - [Modern Swift API Design](https://developer.apple.com/videos/play/wwdc2019/415)
 - [Embrace Swift generics](https://developer.apple.com/videos/play/wwdc2022/110352)
 - [Expand on Swift macros](https://developer.apple.com/videos/play/wwdc2023/10167)
+- [Embrace Swift generics](https://developer.apple.com/videos/play/wwdc2022/110352/)
+- [Design protocol interfaces in Swift](https://developer.apple.com/videos/play/wwdc2022/110353/)
+- [Generalize APIs with parameter packs](https://developer.apple.com/videos/play/wwdc2023/10168/)
 
 ## SwiftUI
 
