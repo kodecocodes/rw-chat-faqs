@@ -27,6 +27,7 @@
 ## SwiftUI
 
 - [Demystify SwiftUI](https://developer.apple.com/wwdc21/10022)
+- [Demystify SwiftUI performance](https://developer.apple.com/videos/play/wwdc2023/10160)
 
 ## Testing
 
