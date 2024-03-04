@@ -42,7 +42,7 @@
 - [Meet async / await](https://developer.apple.com/wwdc21/10132)
 - [Explore structured concurrency in Swift](https://developer.apple.com/wwdc21/10134)
 - [Discover concurrency in SwiftUI](https://developer.apple.com/wwdc21/10019)
-- [Meet AsynSequence](https://developer.apple.com/wwdc21/10058)
+- [Meet AsyncSequence](https://developer.apple.com/wwdc21/10058)
 - [Swift concurrency: Update a sample app](https://developer.apple.com/videos/play/wwdc2021/10194)
 - [Swift concurrency: Behind the scenes](https://developer.apple.com/wwdc21/10254)
 - [Visualize and Optimize Swift Concurrency](https://developer.apple.com/videos/play/wwdc2022/110350)
