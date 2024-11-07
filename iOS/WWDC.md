@@ -3,6 +3,7 @@
 ## Xcode and Tooling
 
 - [Getting Started with Xcode](https://developer.apple.com/videos/play/wwdc2019/404)
+- [Xcode essentials](https://developer.apple.com/videos/play/wwdc2024/10181/)
 - [Meet Xcode Cloud](https://developer.apple.com/wwdc21/10267)
 - [Explore advanced project configuration in Xcode](https://developer.apple.com/wwdc21/10210)
 - [Meet DocC documentation in Xcode](https://developer.apple.com/wwdc21/10166)
